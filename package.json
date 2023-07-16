@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Juan Zabala <zabala1juan@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
