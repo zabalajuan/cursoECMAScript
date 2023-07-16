@@ -1,0 +1,15 @@
+{
+  "name": "cursoecmascript",
+  "version": "1.0.0",
+  "description": "Curso ecmaScript de platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Juan Zabala <zabala1juan@gmail.com>",
+  "license": "MIT"
+}
