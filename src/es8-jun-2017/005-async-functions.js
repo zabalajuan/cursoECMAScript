@@ -20,7 +20,7 @@ otraFn();
 console.log( 'after');
 
 
-//que pasa si quitamos las palabras reservadas
+//que pasa si quitamos las palabras reservadas async --- await
 const fnAsync2 = () => {
     return new Promise((resolve,reject) => {
         // aqui el ejemplo tiene un if terniario
